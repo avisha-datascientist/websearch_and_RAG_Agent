@@ -1,6 +1,7 @@
 from typing import Any, Optional
 from smolagents.tools import Tool
 import requests
+import re
 import markdownify
 import smolagents
 
